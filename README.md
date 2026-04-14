@@ -143,7 +143,7 @@ streamlit run app.py
 
 ---
 
-### ▶️ Project Structure
+## Project Structure
 
 ├── app.py                      # Streamlit app
 ├── image_captioning_model.pth          
