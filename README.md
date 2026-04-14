@@ -142,11 +142,11 @@ We built an interactive web app using **Streamlit**.
 streamlit run app.py
 
 ---
+## 📁 Project Structure
 
-## Project Structure
-
+```bash
 ├── app.py                      # Streamlit app
-├── image_captioning_model.pth          
+├── image_captioning_model.pth  
 ├── vocab.pkl                   # Cached features
 ├── requirements.txt            # Dependencies
 └── README.md
