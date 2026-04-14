@@ -141,12 +141,12 @@ We built an interactive web app using **Streamlit**.
 ```bash
 streamlit run app.py
 
----
+
 ## 📁 Project Structure
 
 ```bash
-├── app.py                      # Streamlit app
-├── image_captioning_model.pth  
-├── vocab.pkl                   # Cached features
-├── requirements.txt            # Dependencies
+├── app.py
+├── image_captioning_model.pth
+├── vocab.pkl
+├── requirements.txt
 └── README.md
