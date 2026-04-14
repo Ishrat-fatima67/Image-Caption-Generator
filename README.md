@@ -142,6 +142,7 @@ We built an interactive web app using **Streamlit**.
 streamlit run app.py
 
 ---
+
 ### ▶️ Project Structure
 
 ├── app.py                      # Streamlit app
